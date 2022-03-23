@@ -1,2 +1,2 @@
-# JoseKike_koch.Github.io
+# Koch---Snowflake
 Koch Snowflake
