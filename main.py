@@ -1,6 +1,5 @@
 from turtle import *
 
-
 # funcion para crear el koch
 def koch(largo, grado): 
     if grado == 0: 
